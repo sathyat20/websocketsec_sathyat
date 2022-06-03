@@ -1,4 +1,4 @@
-# starter express app template
+# starter express app EC
 
 * node with babel
 * expressjs
